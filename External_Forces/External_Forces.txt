@@ -1,0 +1,5 @@
+The .m-files contain the functions that compute the external forces. 
+
+"don": simplified, without inertial coupling
+"nd": non-dimensionalized
+"jin": Jin's approach for the antenna with nonlinear strain-displacement

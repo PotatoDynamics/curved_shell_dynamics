@@ -1,0 +1,11 @@
+The .m-files contain functions that implement the equations of motion.
+Donnell refers to the generic shell element from the Amabili paper:
+"don": simplified model without inertial coupling
+"ama": model with inertial coupling
+"nd": non-dimensionalized
+
+Jin refers to the ansatz used for the antenna:
+"jin": nonlinear strain-displacement relations
+"lin": linear strain-displacement relations
+
+The other naming elements refer to the paramenter values used.

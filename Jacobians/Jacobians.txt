@@ -1,0 +1,10 @@
+The .m/.mat-files contain the functions that compute the Jacobians for
+the different equations of motion. 
+
+"don": simplified, without inertial coupling
+"ama": with inertial coupling
+"nd": non-dimensionalized
+"jin": Jin's approach for the antenna with nonlinear strain-displacement
+"lin": Jin's approach for the antenna with linear strain-displacement
+
+The other naming-elements refer to the parameters of the model.
